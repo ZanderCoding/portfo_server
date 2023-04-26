@@ -1,3 +1,3 @@
 Personal Portfolio Website
 
-contract me thougth Website with questions.
+contract me via https://alexanderswearingen.pythonanywhere.com/ with questions.
